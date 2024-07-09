@@ -25,6 +25,7 @@ img {
   padding: 0 2rem;
   /* position: relative; */
 }
+
 .content {
   background-color: #fff;
   border-radius: 5%;
@@ -56,6 +57,9 @@ img {
 .content_text__h1 {
   font-size: medium;
   font-weight: bold;
+}
+.content_text__h1:hover {
+  color: hsl(47, 88%, 63%);
 }
 .space {
   padding: 1rem 0;
