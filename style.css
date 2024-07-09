@@ -52,9 +52,7 @@ img {
   font-size: min(1.2rem, 3.5vw);
   line-height: 4.5%;
 }
-.nowrap {
-  white-space: nowrap;
-}
+
 .content_text__h1 {
   font-size: medium;
   font-weight: bold;
